@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Background -->
+  <circle cx="16" cy="16" r="16" fill="#2563eb"/>
+
+  <!-- Face -->
+  <ellipse cx="16" cy="14" rx="8" ry="9" fill="#fde8d8"/>
+
+  <!-- Hair -->
+  <path d="M8 11 Q8 5 16 5 Q24 5 24 11 Q24 8 20 7 Q16 6 12 7 Q8 8 8 11" fill="#1a1a1a"/>
+
+  <!-- Glasses -->
+  <rect x="10" y="12" width="5" height="4" rx="1" fill="none" stroke="#333" stroke-width="1"/>
+  <rect x="17" y="12" width="5" height="4" rx="1" fill="none" stroke="#333" stroke-width="1"/>
+  <line x1="15" y1="14" x2="17" y2="14" stroke="#333" stroke-width="1"/>
+
+  <!-- Eyes -->
+  <circle cx="12.5" cy="14" r="1" fill="#1a1a1a"/>
+  <circle cx="19.5" cy="14" r="1" fill="#1a1a1a"/>
+
+  <!-- Smile -->
+  <path d="M13 19 Q16 21 19 19" stroke="#c47a6a" stroke-width="1" fill="none"/>
+
+  <!-- Shirt -->
+  <path d="M8 32 Q8 25 12 24 L16 26 L20 24 Q24 25 24 32" fill="#3b82f6"/>
+</svg>

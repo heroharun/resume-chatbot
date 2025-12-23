@@ -1,0 +1,119 @@
+{
+  "personal": {
+    "name": "Halit Enes Büyüktepe",
+    "title": "Frontend Developer",
+    "location": "Tekirdağ, Türkiye",
+    "email": "buyuktepe.halitenes@gmail.com",
+    "phone": "0538 438 5934",
+    "linkedin": "https://linkedin.com/in/halitenes/",
+    "github": "https://github.com/halitenes/"
+  },
+  "summary": "Vue.js ve modern UI ekosistemlerinde uzmanlaşmış Frontend Developer. Ölçeklenebilir mimariler, temiz kod ve kusursuz kullanıcı deneyimleri üzerine odaklanıyorum. Hem frontend hem backend entegrasyonlarında sağlam bir geçmişe sahip olarak, tasarım ve işlevsellik arasında köprü kurmayı ve yüksek performanslı ekiplere katkıda bulunmayı hedefliyorum.",
+  "technicalLevel": "Güçlü Mid–Senior Frontend Developer (Frontend merkezli, backend ve sistem entegrasyonlarına aşina)",
+  "skills": {
+    "frontend": ["Vue.js", "React", "JavaScript (ES6+)", "TypeScript", "Element UI", "Vuetify"],
+    "backend": ["PHP", "Node.js", "Symfony"],
+    "database": ["MySQL"],
+    "tools": ["Git", "Docker", "REST APIs", "Figma"],
+    "other": ["Responsive Design", "Modular UI Architecture", "Agile Development"]
+  },
+  "experience": [
+    {
+      "company": "TAV Technologies",
+      "position": "Front End Developer",
+      "period": "Aralık 2021 - Kasım 2025",
+      "duration": "4 yıl",
+      "description": "Havalimanı operasyon ekosisteminde birçok projeye katkıda bulundum.",
+      "projects": [
+        {
+          "name": "Ground Handling Suite (GHS)",
+          "description": "Gerçek zamanlı operasyon yönetim modülü. Dark mode, CRUD arayüzleri ve kullanıcı bazlı datagrid konfigürasyonu. Vue.js ve Element UI kullanıldı."
+        },
+        {
+          "name": "Slot Coordination & Management System",
+          "description": "Zamanlama dashboard'ları tasarladım ve optimize ettim. Performans iyileştirmeleri ve modüler UI mimarisi."
+        }
+      ],
+      "technologies": ["Vue.js", "Element UI", "Real-time Systems"]
+    },
+    {
+      "company": "KG Technology",
+      "position": "Front End Developer",
+      "period": "Temmuz 2021 - Aralık 2021",
+      "duration": "6 ay",
+      "description": "Büyük ölçekli B2B ve fintech platformlarında çalıştım.",
+      "projects": [
+        {
+          "name": "BiP - Paycell Integration",
+          "description": "Open banking arayüzleri için yeniden kullanılabilir React componentleri geliştirdim. Backend ekipleriyle API entegrasyonu ve test konusunda işbirliği yaptım."
+        },
+        {
+          "name": "Edenred Platform",
+          "description": "Yüksek trafikli enterprise kullanıcılar için responsive dashboard'lar oluşturdum. Ölçeklenebilirlik ve temiz UX pattern'lerine odaklandım."
+        }
+      ],
+      "technologies": ["React", "Fintech", "Open Banking", "Enterprise Dashboards"]
+    },
+    {
+      "company": "Akead Software Solutions",
+      "position": "Full-Stack Developer",
+      "period": "Nisan 2019 - Haziran 2021",
+      "duration": "2 yıl 2 ay",
+      "description": "Birden fazla B2B ve analitik projesinde çalıştım. Vue.js ile ölçeklenebilir frontend mimarileri ve PHP ile backend entegrasyonlarına odaklandım.",
+      "projects": [
+        {
+          "name": "Akead Dashboard & IQ Vizyon",
+          "description": "Müşteri performansı ve CNC sistemlerini izlemek için gerçek zamanlı dashboard'lar ve analitik arayüzler geliştirdim."
+        },
+        {
+          "name": "Akead Payment Service & Pro Web Solution",
+          "description": "ParamPOS, Stripe ve özel API'ler entegre ederek ödeme ve B2B sipariş modülleri geliştirdim."
+        },
+        {
+          "name": "Corporate Website",
+          "description": "Symfony ile kurumsal web sitesinin bakımını yaptım. Tasarım tutarlılığı ve SEO optimizasyonu sağladım."
+        }
+      ],
+      "technologies": ["Vue.js", "PHP", "Symfony", "ParamPOS", "Stripe", "Real-time Dashboards"]
+    },
+    {
+      "company": "IBASE Software Solutions",
+      "position": "Java Developer (Staj)",
+      "period": "Şubat 2019 - Mart 2019",
+      "duration": "2 ay",
+      "description": "Şirketin bakım planlama aracını geliştirdim ve bakımını yaptım. Java ve SQL kullanarak bug düzeltmeleri ve küçük özellik istekleri gerçekleştirdim.",
+      "technologies": ["Java", "SQL"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bilecik Şeyh Edebali Üniversitesi",
+      "degree": "Computer Engineering (Bilgisayar Mühendisliği)",
+      "year": "2016"
+    },
+    {
+      "institution": "Tekirdağ Tuğlacılar High School",
+      "degree": "Lise",
+      "year": "2010"
+    }
+  ],
+  "strengths": [
+    "Enterprise Vue.js kullanımı (tutorial seviyesi değil, kurumsal ölçek)",
+    "Gerçek zamanlı operasyon sistemleri deneyimi (havalimanı ops, fintech)",
+    "B2B ve fintech sistemlerde production deneyimi",
+    "Backend ekibiyle aynı dili konuşabilme (API contract, payload, hata senaryoları)",
+    "İş kritik sistemlerde çalışma deneyimi (yüksek sorumluluk, düşük hata toleransı)",
+    "Ürün ve mimari odaklı düşünme yeteneği"
+  ],
+  "projectTypes": [
+    "Airport operation systems (havalimanı operasyon sistemleri)",
+    "Fintech / payment systems (fintech ve ödeme sistemleri)",
+    "Analytics dashboards (analitik dashboard'lar)",
+    "CNC / endüstriyel izleme sistemleri",
+    "B2B enterprise platformlar"
+  ],
+  "languages": {
+    "turkish": "Ana dil",
+    "english": "Profesyonel çalışma yetkinliği"
+  }
+}

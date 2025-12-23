@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="100" fill="#2563eb"/>
+
+  <!-- Face -->
+  <ellipse cx="100" cy="90" rx="45" ry="50" fill="#fde8d8"/>
+
+  <!-- Hair -->
+  <path d="M55 70 Q55 35 100 35 Q145 35 145 70 Q145 55 130 50 Q115 45 100 45 Q85 45 70 50 Q55 55 55 70" fill="#1a1a1a"/>
+  <ellipse cx="60" cy="65" rx="8" ry="15" fill="#1a1a1a"/>
+  <ellipse cx="140" cy="65" rx="8" ry="15" fill="#1a1a1a"/>
+
+  <!-- Ears -->
+  <ellipse cx="55" cy="90" rx="6" ry="10" fill="#fde8d8"/>
+  <ellipse cx="145" cy="90" rx="6" ry="10" fill="#fde8d8"/>
+
+  <!-- Glasses frame -->
+  <rect x="65" y="80" width="28" height="22" rx="4" fill="none" stroke="#333" stroke-width="3"/>
+  <rect x="107" y="80" width="28" height="22" rx="4" fill="none" stroke="#333" stroke-width="3"/>
+  <line x1="93" y1="91" x2="107" y2="91" stroke="#333" stroke-width="3"/>
+  <line x1="55" y1="88" x2="65" y2="88" stroke="#333" stroke-width="3"/>
+  <line x1="135" y1="88" x2="145" y2="88" stroke="#333" stroke-width="3"/>
+
+  <!-- Eyes behind glasses -->
+  <ellipse cx="79" cy="91" rx="5" ry="6" fill="#1a1a1a"/>
+  <ellipse cx="121" cy="91" rx="5" ry="6" fill="#1a1a1a"/>
+  <circle cx="77" cy="89" r="2" fill="#fff"/>
+  <circle cx="119" cy="89" r="2" fill="#fff"/>
+
+  <!-- Eyebrows -->
+  <path d="M68 75 Q79 72 90 75" stroke="#1a1a1a" stroke-width="2.5" fill="none"/>
+  <path d="M110 75 Q121 72 132 75" stroke="#1a1a1a" stroke-width="2.5" fill="none"/>
+
+  <!-- Nose -->
+  <path d="M100 95 Q103 105 100 110 Q97 108 98 105" fill="#e8d0c0"/>
+
+  <!-- Smile -->
+  <path d="M85 118 Q100 128 115 118" stroke="#c47a6a" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+  <!-- Neck -->
+  <rect x="85" y="135" width="30" height="20" fill="#fde8d8"/>
+
+  <!-- Shirt/Collar -->
+  <path d="M60 200 Q60 160 85 155 L100 165 L115 155 Q140 160 140 200" fill="#3b82f6"/>
+
+  <!-- Laptop -->
+  <rect x="50" y="170" width="100" height="5" rx="1" fill="#374151"/>
+  <rect x="55" y="145" width="90" height="25" rx="2" fill="#1f2937"/>
+  <rect x="60" y="150" width="80" height="15" rx="1" fill="#10b981"/>
+
+  <!-- Code on screen -->
+  <line x1="65" y1="154" x2="85" y2="154" stroke="#34d399" stroke-width="2"/>
+  <line x1="65" y1="158" x2="95" y2="158" stroke="#6ee7b7" stroke-width="2"/>
+  <line x1="70" y1="162" x2="90" y2="162" stroke="#a7f3d0" stroke-width="2"/>
+</svg>
