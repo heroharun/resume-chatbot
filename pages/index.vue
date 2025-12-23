@@ -99,7 +99,7 @@ const sendMessage = async (text?: string) => {
       body: {
         message: messageText,
         history: messages.value.slice(-10),
-        visitor: visitorCollected.value ? visitor.value : null
+        visitor: formSubmitted.value ? visitor.value : null
       }
     })
 
